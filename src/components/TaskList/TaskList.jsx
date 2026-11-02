@@ -11,8 +11,7 @@ const TaskList = ({ data }) => {
 
                         return <AcceptTask key={idx} />
                     }
-                    if (elem.newTask) {
-                        return <NewTask key={idx}/>
+                    if
                     }
                     if (elem.completed) {
                         return <CompleteTask key={idx}/>
