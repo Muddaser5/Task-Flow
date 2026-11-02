@@ -6,7 +6,8 @@ const AcceptTask = () => {
         <div className=" shrink-0 h-full w-75
                  p-5 bg-red-400  rounded-xl">
             <div className="flex justify-between items-center">
-
+                <h3 className=" bg-red-600 text-sm px-3 py-1  ">High</h3>
+                <h4 className="text-sm">20 Feb 2024</h4>
 
             </div>
 
