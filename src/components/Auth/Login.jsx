@@ -27,9 +27,7 @@ const Login = ({handleLogin
                     }}
                         className="flex flex-col items-center justify-center">
                         <input
-                            value={email}
-                            onChange={(e) => {
-                                setEmail(e.target.value)
+                            e)
                             }}
                             required className=" outline-none bg-transparent  border-2 border-emerald-600 text-xl py-4 px-5 rounded-full placeholder:text-gray-400" type="email" placeholder="Enter your email"
                              />
